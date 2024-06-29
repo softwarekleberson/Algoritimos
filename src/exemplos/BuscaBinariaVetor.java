@@ -1,4 +1,4 @@
-package buscabinaria;
+package exemplos;
 
 public class BuscaBinariaVetor {
 
